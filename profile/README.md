@@ -1,5 +1,5 @@
 # Spruston Lab
-<img src="unicorn.png" width="250">
+<img src="https://raw.githubusercontent.com/sprustonlab/.github/main/profile/unicorn.png" width="250" />
 
 Code and software from the Spruston Lab at the HHMI Janelia Research Campus.
 
